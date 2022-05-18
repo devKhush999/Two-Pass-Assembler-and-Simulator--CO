@@ -1,0 +1,8 @@
+'Syntax Error' In line no. 2: Illegal use of FLAGS registers
+'Syntax Error' In line no. 3: Illegal use of FLAGS registers
+'Syntax Error' In line no. 4: Illegal use of FLAGS registers
+'Syntax Error' In line no. 5: Illegal use of FLAGS registers
+'Syntax Error' In line no. 6: Wrong syntax used for Type-A instructions
+'Syntax Error' In line no. 7: Misuse of variables as labels
+'Syntax Error' In line no. 8: Misuse of Label as variables
+'Syntax Error' In line no. 9: Illegal use of FLAGS registers

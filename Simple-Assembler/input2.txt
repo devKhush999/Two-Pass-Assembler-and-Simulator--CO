@@ -1,0 +1,10 @@
+var 123
+add FLAGS R2 R5
+mov FLAGS $2
+mov FLAGS FLAGS
+ld FLAGS R4
+456: add
+jmp 123
+ld R0 456
+mul R1 FLAGS R4
+hlt
